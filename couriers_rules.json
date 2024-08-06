@@ -1,0 +1,15 @@
+{
+    "couriers": {
+        "Courier A": {
+            "weight_limits": [5, 10, "inf"],
+            "prices": [10, 15, 20]
+        },
+        "Courier B": {
+            "weight_limits": [7, 15, "inf"],
+            "prices": [12, 18, 25]
+        },
+        "Courier C": {
+            "weight_limits": [10, 20, "inf"],
+            "prices": [8, 14, 22]
+} }
+}
