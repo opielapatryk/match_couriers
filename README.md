@@ -1,5 +1,9 @@
 # Courier Assignment Project
 
+
+https://github.com/user-attachments/assets/c551a66f-a0e1-4c19-887c-3752c7a7f425
+
+
 This project assigns the cheapest courier to orders based on their weight using provided courier rules.
 
 ## Getting Started
